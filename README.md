@@ -37,8 +37,8 @@ portfolio-project/
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd portfolio-project
+   git clone https://github.com/Anonymous-Roys/semester-project-portfolio.git
+   cd portfolio_scaffold
    ```
 
 2. Open `index.html` in your browser.
